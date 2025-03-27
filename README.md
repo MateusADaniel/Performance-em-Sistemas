@@ -1,4 +1,5 @@
 EMENTA
+
 A disciplina de Performance em Sistemas Ciberfísicos é de natureza teórica/prática ofertada a
 estudantes da área da Computação. Durante a disciplina, o estudante analisa aspectos de
 concorrência e paralelismo em nível de hardware para sistemas ciberfísicos, considerando os
