@@ -11,11 +11,11 @@ para obter melhor desempenho com os recursos do hardware e do sistema operaciona
 
 ATIVIDADES:
 
-ProjetoArq_1 == Considere que você é responsável pela implementação de uma CPU com uma Unidade de Controle, uma
+ProjetoArq_1 --> Considere que você é responsável pela implementação de uma CPU com uma Unidade de Controle, uma
 ULA e uma Memória Cache em nível de software através da linguagem de programação Python.
 
-ProjetoArq_2 == Implemente o mapeamento Direto de Memória.
+ProjetoArq_2 --> Implemente o mapeamento Direto de Memória.
 
-SubstituicaoPaginas == Implemente os esquemas de substituição de páginas FIFO, LRU e MRU.
+SubstituicaoPaginas --> Implemente os esquemas de substituição de páginas FIFO, LRU e MRU.
 
-Exercício_Assembly == Alguns exercícios de assembly que foram executados na web.
+Exercício_Assembly --> Alguns exercícios de assembly que foram executados na web.
